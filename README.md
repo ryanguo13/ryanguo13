@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning mechanical engineering and robotics (3rd year undergraduate student)
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanguo13&layout=compact)
 
 ###  📫 How to reach me:
